@@ -146,3 +146,19 @@ Este projeto continuará evoluindo com:
 Este projeto possui finalidade exclusivamente educacional.
 
 Todos os testes são realizados somente em ambientes próprios, controlados ou explicitamente autorizados.
+
+
+## 📸 Evidências do laboratório
+
+### OWASP Juice Shop executando localmente
+
+![OWASP Juice Shop](01-owasp-juice-shop-localhost.png)
+
+### Análise de tráfego HTTP com OWASP ZAP
+
+![OWASP ZAP - Tráfego HTTP](02-owasp-zap-http-traffic.png)
+
+### Alerta identificado durante a análise passiva
+
+![OWASP ZAP - Security Alert](03-owasp-zap-security-alert.png)
+
